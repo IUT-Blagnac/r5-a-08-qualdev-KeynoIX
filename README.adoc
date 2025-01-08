@@ -20,7 +20,7 @@ Feature: Is it Friday yet?
       | anything else! | Nope   |
 ---
 
-image::c:\Users\antho\OneDrive\Images\Captures d’écran\Capture d'écran 2025-01-08 163656.png[width=80%]
+image::c:\Users\antho\OneDrive\Images\Captures d’écran\Capture d'écran 2025-01-08 163656.png[Capture d'écran test, width=80%]
 
 
 == TP2...
