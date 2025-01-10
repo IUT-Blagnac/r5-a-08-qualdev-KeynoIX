@@ -20,7 +20,7 @@ Feature: Is it Friday yet?
       | anything else! | Nope   |
 ---
 
-image::image/capture du test.png[width=400]
+image::image/capture du test.png[width=800]
 
 
 == TP2...
